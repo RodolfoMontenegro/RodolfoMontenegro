@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RodolfoMontenegro
-- 👀 I’m interested in ... QGIS and GIS related sofwtware, open source programs.
+- 👀 I’m interested in ... QGIS and LLM, machine learning and A.I. related software, open source programs.
 - 🌱 I’m currently learning ... SQL server and QGIS server.
 - 💞️ I’m looking to collaborate on ... GIS sofware.
 - 📫 How to reach me ... yasuonoob@outlook.com
